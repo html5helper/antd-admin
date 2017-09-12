@@ -5,13 +5,13 @@ let database = [
   {
     id: '1',
     icon: 'laptop',
-    name: 'Dashboard',
+    name: '总览',
     route: '/dashboard',
   },
   {
     id: '2',
     bpid: '1',
-    name: 'Users',
+    name: '用户管理',
     icon: 'user',
     route: '/user',
   },
